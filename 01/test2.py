@@ -16,3 +16,4 @@ for k in outputs:
 summer.sort(reverse=True)
 print(summer[:3])
 print(sum(summer[:3]))
+print("HELLO")
